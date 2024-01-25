@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="47.025787mm"
+   height="9.866272mm"
+   viewBox="0 0 47.025787 9.866272"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="drawing-2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0885159"
+     inkscape:cx="234.26392"
+     inkscape:cy="912.71061"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-304.39063,-25.883086)">
+    <path
+       style="fill:#ff0000;stroke:none;stroke-width:0.808506;stroke-miterlimit:4.5;paint-order:markers fill stroke;stop-color:#000000"
+       d="m 321.89979,30.74674 -6.53119,-1.111692 -10.97796,-3.751963 4.16884,8.89354 15.00785,0.972732 z"
+       id="path1183-5"
+       inkscape:export-filename=".\path1183-5.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#000000;stroke:none;stroke-width:0.808506;stroke-miterlimit:4.5;paint-order:markers fill stroke;stop-color:#000000"
+       d="m 315.3686,29.635048 0.69479,5.627942 -1.6495,-0.106911 -0.43491,-6.042136 z"
+       id="path1261" />
+    <path
+       style="fill:#ff0000;stroke:none;stroke-width:0.808506;stroke-miterlimit:4.5;paint-order:markers fill stroke;stop-color:#000000"
+       d="m 333.90724,30.74674 6.53118,-1.111692 10.97797,-3.751963 -4.16884,8.89354 -15.00785,0.972732 z"
+       id="path1183-5-7" />
+    <path
+       style="fill:#000000;stroke:none;stroke-width:0.808506;stroke-miterlimit:4.5;paint-order:markers fill stroke;stop-color:#000000"
+       d="m 340.43842,29.635048 -0.69479,5.627942 1.6495,-0.106911 0.43491,-6.042136 z"
+       id="path1261-9" />
+  </g>
+</svg>

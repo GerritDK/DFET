@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="79.375mm"
+   height="26.458332mm"
+   viewBox="0 0 79.375 26.458332"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <g
+     id="layer1"
+     transform="translate(-288.2786,-18.9593)">
+    <path
+       style="fill:#ff0000;stroke:none;stroke-width:0.808506;stroke-miterlimit:4.5;paint-order:markers fill stroke;stop-color:#000000"
+       d="m 321.89979,30.74674 -6.53119,-1.111692 -10.97796,-3.751963 4.16884,8.89354 15.00785,0.972732 z"
+       id="path1183-5" />
+    <path
+       style="fill:#000000;stroke:none;stroke-width:0.808506;stroke-miterlimit:4.5;paint-order:markers fill stroke;stop-color:#000000"
+       d="m 315.3686,29.635048 0.69479,5.627942 -1.6495,-0.106911 -0.43491,-6.042136 z"
+       id="path1261" />
+    <path
+       style="fill:#ff0000;stroke:none;stroke-width:0.808506;stroke-miterlimit:4.5;paint-order:markers fill stroke;stop-color:#000000"
+       d="m 333.90724,30.74674 6.53118,-1.111692 10.97797,-3.751963 -4.16884,8.89354 -15.00785,0.972732 z"
+       id="path1183-5-7" />
+    <path
+       style="fill:#000000;stroke:none;stroke-width:0.808506;stroke-miterlimit:4.5;paint-order:markers fill stroke;stop-color:#000000"
+       d="m 340.43842,29.635048 -0.69479,5.627942 1.6495,-0.106911 0.43491,-6.042136 z"
+       id="path1261-9" />
+  </g>
+</svg>

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+    <div id="mainmenu">
+        <h1 id="zoologist">The Zoologist</h1>
+        <button id="worldbutton" class="menubutton"><p class="buttext">travel</p></button>
+        <button id="dexbutton" class="menubutton"><p class="buttext">discoveries</p></button>
+        <!--<button id="dexbutton" class="menubutton"><img src="styles/images/bestiary.png"><p class="buttext">Discoveries</p></button>
+        <button id="worldbutton" class="menubutton"><img src="styles/images/worlds.png"><p class="buttext">World Engine</p></button>
+        <button id="travelbutton" class="menubutton"><img src="styles/images/travel.png"><p class="buttext">Travel</p></button>-->
+        <p id="updatetext"></p>
+    </div>
+    <div id="worldengine">
+        <h1>Find new worlds</h1>
+        <div id="worldengine2" >
+        <div class="slidahs">
+            <label for="tempslider">temperature</label>
+            <input id="tempslider" type="range" min="-100" max="100" step="5">
+            <p id="templabel"></p>
+        </div>
+    
+        <div class="slidahs">
+            <label for="reliefslider">relief</label>
+            <input id="reliefslider" type="range" min="0" max="100" step="5">
+            <p id="relieflabel"></p>
+        </div class="slidahs">
+    
+        <div class="slidahs">
+            <label for="waterslider">water</label>
+            <input id="waterslider" type="range" min="0" max="100" step="5">
+            <p id="waterlabel"></p>
+        </div>
+    
+        <div class="slidahs">
+            <label for="foodslider">food</label>
+            <input id="foodslider" type="range" min="0" max="100" step="5">
+            <p id="foodlabel"></p>
+        </div>
+        </div>
+    
+        <button id="travelbutton"><p class="buttext">travel</p></button>
+        <button id="wetomain">back</button>
+    </div>
+
+    <div id="dexmenu">
+        <div id="discoveries"></div>
+        <button id="dextomain">back</button>
+    </div>
+
+    <div id="travelmenu">
+        <h1>You've discovered..</h1>
+        <p>whatever this is</p>
+        <img id="resultImage" alt="Generated Image">
+        <button id="addtodex">add to discoveries</button>
+        <button id="traveltomain">back to menu</button>
+    </div>
+
+    <div id ="travellingscreen">
+        <h1>Traveling to a new world</h1>
+        <button id="travellingscreenokay">Okay</button>
+    </div>
+
+    <div id ="encounterwarning">
+        <h1>A creature emerges from the fog...</h1>
+            <div class="hints">
+                <div class="hintsimg"><img src="styles/images/claw1.png"></div>
+                <p>Dodge a left-sided attack by pressing the 'right arrow' key</p>
+            </div>
+            <div class="hints">
+                <div class="hintsimg"><img src="styles/images/bite.png"></div>
+                <p>Block a bite attack by pressing the 'spacebar' key</p>
+            </div>
+            <div class="hints">
+                <div class="hintsimg"><img src="styles/images/claw2.png"></div>
+                <p>Dodge a right-sided attack by pressing the 'left arrow' key</p>
+            </div>
+        <div class="hints"></div>
+        <button id="encounterokay">Okay</button>
+    </div>
+    <script src="test.js"></script>
+</body>
+</html>
